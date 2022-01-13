@@ -6,6 +6,7 @@ Leia Organa
 Chewbacca
 Han Solo
 Jabba The Hutt
+Bobba Fett
 
 Rey
 Flinn
